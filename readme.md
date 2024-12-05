@@ -2,7 +2,7 @@
 
 This repo is for documentation of the work "Microstructural asymmetry in the human cortex"
 ---
-Paper: https://www.nature.com/articles/s41467-024-54243-9
+Paper: https://www.nature.com/articles/s41467-024-54243-9  
 It includes 5 visualization ipython notebooks, 2 built-in python scripts, and 1 bash script. 
 
 ---
