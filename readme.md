@@ -2,6 +2,7 @@
 
 This repo is for documentation of the work "Microstructural asymmetry in the human cortex"
 ---
+Paper: https://www.nature.com/articles/s41467-024-54243-9
 It includes 5 visualization ipython notebooks, 2 built-in python scripts, and 1 bash script. 
 
 ---
@@ -37,7 +38,7 @@ This script helps compute twin-based heritability using SOLAR (https://solar-ecl
 ---
 
 ### Correspondence
-Bin Wan (bin.wan.work@gmail.com)  
+Bin Wan (binwan.academic@gmail.com)  
 Sofie L. Valk (valk@cbs.mpg.de)  
 
 Cognitive Neurogenetics (CNG) lab,   
